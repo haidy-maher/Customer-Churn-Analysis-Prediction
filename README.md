@@ -47,8 +47,8 @@ This project explores customer churn behavior by applying advanced data mining t
 
 ## 📁 Repository Structure
 
-- `DATA_MINING.ipynb` — Main Jupyter notebook containing full data analysis, modeling, and visualization workflow  
-- `datamining.csv` — Sample telecom customer dataset (path configurable in notebook)  
+- `code.ipynb` — Main Jupyter notebook containing full data analysis, modeling, and visualization workflow  
+- `dataset.csv` — Sample telecom customer dataset (path configurable in notebook)  
 
 ---
 
