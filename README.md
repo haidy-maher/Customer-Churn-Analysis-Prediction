@@ -41,8 +41,6 @@ This project explores customer churn behavior by applying advanced data mining t
 - Pandas, NumPy for data manipulation  
 - Scikit-learn for modeling and preprocessing  
 - Matplotlib, Seaborn for visualization  
-- Mlxtend for association rule mining  
-- NetworkX for rule graph visualization  
 - Google Colab integration for easy execution  
 
 ---
