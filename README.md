@@ -1,5 +1,4 @@
 # Customer-Churn-Analysis-Prediction
-# Customer Churn Data Mining and Predictive Modeling
 
 Welcome to the **Customer Churn Data Mining and Predictive Modeling** project! This comprehensive notebook demonstrates an end-to-end data science pipeline applied to customer churn analysis using real-world telecom dataset.
 
